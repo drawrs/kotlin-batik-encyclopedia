@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/ede3ca2b61f89c4c7a2925f1eb63c37b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fb722791bd0e0fc3eb161b43e0961e1b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/290b7af597abb6d53c184eceffb790d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/492fc344cda475e3cb9c84f0b88d364b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/e7f2886159534373c7fc453d51eb1886/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/da87b70e1d1c788de0ecb0e2fc6a5a0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/c6b35f4363710ba053fd226b06f9d42e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/a411499e2ec322219d0316747565d358/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/35ca97a1b1bc1ee1c753ae9f065c2f67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/1e8f2ee5f1c824b43f41295ee24746f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/6a36734d32bfe68c50a7c3020b26918e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/c4ddf0620a289f229085b0a39fcf599a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/3d5a1983184e8840fe330d72c133a13f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/e80772f34641285b4dce1979dddc31b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/0de274626e05d5781b5828f2336415ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/d8e08642176d9b762a097faf32925936/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/cde74a41d275b6f5d15c5b914658ec82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/feb04fa7bb829f2572825abe8adc00cd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/d1ded0bf9035dc76fc3d3c30bc47f6b0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/b7bc9c629dc0cd889b1dafa907ceba79/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b72eb407e0163ff6db7285ff554022e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/9bd90e40bb9bbb51586bf62c181661ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/1ab187f72544705131ee6f426fbbfee0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/af2f0b028e18e70e77acb249c9284a67/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e1cd6f7689248647b4e1f41774ebed75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/b0ea8891304f11ae286a10f39fcf8b69/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/90040b7c6384c782476380810b2d0d63/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ebfa27d92d0eef7ddba45a6d8c1e0fd3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fb722791bd0e0fc3eb161b43e0961e1b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fb722791bd0e0fc3eb161b43e0961e1b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/feb04fa7bb829f2572825abe8adc00cd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/feb04fa7bb829f2572825abe8adc00cd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/d1ded0bf9035dc76fc3d3c30bc47f6b0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/d1ded0bf9035dc76fc3d3c30bc47f6b0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/feb04fa7bb829f2572825abe8adc00cd/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.khilman.www.batiknusantaraencyclopedia.MainActivity
+ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:12:9-14:20
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:12:19-47
+activity#com.khilman.www.batiknusantaraencyclopedia.activity.SplashActivity
+ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:theme
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:16:13-69
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:15:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.khilman.www.batiknusantaraencyclopedia.activity.DetailActivity
+ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:23:9-26:20
+	android:parentActivityName
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml:23:19-58
+uses-sdk
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/ede3ca2b61f89c4c7a2925f1eb63c37b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/ede3ca2b61f89c4c7a2925f1eb63c37b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fb722791bd0e0fc3eb161b43e0961e1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fb722791bd0e0fc3eb161b43e0961e1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/290b7af597abb6d53c184eceffb790d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/290b7af597abb6d53c184eceffb790d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/492fc344cda475e3cb9c84f0b88d364b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/492fc344cda475e3cb9c84f0b88d364b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/e7f2886159534373c7fc453d51eb1886/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/e7f2886159534373c7fc453d51eb1886/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/da87b70e1d1c788de0ecb0e2fc6a5a0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/da87b70e1d1c788de0ecb0e2fc6a5a0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/c6b35f4363710ba053fd226b06f9d42e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/c6b35f4363710ba053fd226b06f9d42e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/a411499e2ec322219d0316747565d358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/a411499e2ec322219d0316747565d358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/35ca97a1b1bc1ee1c753ae9f065c2f67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/35ca97a1b1bc1ee1c753ae9f065c2f67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/1e8f2ee5f1c824b43f41295ee24746f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/1e8f2ee5f1c824b43f41295ee24746f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/6a36734d32bfe68c50a7c3020b26918e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/6a36734d32bfe68c50a7c3020b26918e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/c4ddf0620a289f229085b0a39fcf599a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/c4ddf0620a289f229085b0a39fcf599a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/3d5a1983184e8840fe330d72c133a13f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/3d5a1983184e8840fe330d72c133a13f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/e80772f34641285b4dce1979dddc31b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/e80772f34641285b4dce1979dddc31b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/0de274626e05d5781b5828f2336415ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/0de274626e05d5781b5828f2336415ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/d8e08642176d9b762a097faf32925936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/d8e08642176d9b762a097faf32925936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/cde74a41d275b6f5d15c5b914658ec82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/cde74a41d275b6f5d15c5b914658ec82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/feb04fa7bb829f2572825abe8adc00cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/feb04fa7bb829f2572825abe8adc00cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/d1ded0bf9035dc76fc3d3c30bc47f6b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/d1ded0bf9035dc76fc3d3c30bc47f6b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/b7bc9c629dc0cd889b1dafa907ceba79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/b7bc9c629dc0cd889b1dafa907ceba79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b72eb407e0163ff6db7285ff554022e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b72eb407e0163ff6db7285ff554022e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/9bd90e40bb9bbb51586bf62c181661ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/9bd90e40bb9bbb51586bf62c181661ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/1ab187f72544705131ee6f426fbbfee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/1ab187f72544705131ee6f426fbbfee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/af2f0b028e18e70e77acb249c9284a67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/af2f0b028e18e70e77acb249c9284a67/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e1cd6f7689248647b4e1f41774ebed75/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e1cd6f7689248647b4e1f41774ebed75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/b0ea8891304f11ae286a10f39fcf8b69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/b0ea8891304f11ae286a10f39fcf8b69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/90040b7c6384c782476380810b2d0d63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/90040b7c6384c782476380810b2d0d63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ebfa27d92d0eef7ddba45a6d8c1e0fd3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ebfa27d92d0eef7ddba45a6d8c1e0fd3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/work/BatikNusantaraEncyclopedia/app/src/main/AndroidManifest.xml
